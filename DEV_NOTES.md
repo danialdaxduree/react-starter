@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Improved error handling in edge cases
+
+## 2026-05-06
+- Fixed off-by-one error in loop
