@@ -24,3 +24,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Fixed off-by-one error in loop
+
+## 2026-05-13
+- Ran linter, applied auto-fixes
+- Addressed feedback from self code review
+- Checked for memory leaks in long-running path
